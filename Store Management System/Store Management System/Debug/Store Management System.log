@@ -1,0 +1,4 @@
+﻿  Code.cpp
+E:\Study Content\Semesters\PF-Lab Semester Project\Store Management System\Store Management System\Code.cpp(518,14): warning C4101: 'x': unreferenced local variable
+E:\Study Content\Semesters\PF-Lab Semester Project\Store Management System\Store Management System\Code.cpp(102): warning C4715: 'stockMatch': not all control paths return a value
+  Store Management System.vcxproj -> E:\Study Content\Semesters\PF-Lab Semester Project\Store Management System\Debug\Store Management System.exe
